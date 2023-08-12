@@ -35,6 +35,10 @@ nav {
   margin: auto;
 }
 
+nav li {
+  color: white;
+}
+
 ul {
   color: hsl(0, 0%, 100%);
   display: flex;
